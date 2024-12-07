@@ -150,7 +150,7 @@ const Contact = () => {
               <div className="content-card">
                 <div className="images">
                   <Image
-                    src="/images/folowbg.jfif"
+                    src="/images/folowbg.jpg"
                     alt="insta"
                     width={500}
                     height={500}
