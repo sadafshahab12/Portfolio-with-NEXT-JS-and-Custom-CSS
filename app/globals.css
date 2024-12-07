@@ -791,7 +791,7 @@ input::placeholder {
 }
 
 /* media query  */
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
   .navbar {
     padding: 2rem;
     position: relative;
@@ -1206,7 +1206,7 @@ input::placeholder {
     padding: 1rem;
   }
 }
-@media only screen and (min-width: 350px) and (max-width: 450px) {
+@media only screen and (min-width: 400px) and (max-width: 450px) {
   .navbar {
     padding: 2rem;
     position: relative;
