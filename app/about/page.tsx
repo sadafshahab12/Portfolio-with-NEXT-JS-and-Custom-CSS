@@ -115,7 +115,7 @@ const About = () => {
             </div>
             <div>
               <Card
-                src="/public/images/mywork4.jpg"
+                src="/images/mywork4.jpg"
                 title="Performance Optimization"
                 description="Committed to writing clean, efficient code that ensures fast loading times and great performance."
               />
